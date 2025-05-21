@@ -1,21 +1,3 @@
 # My Website
-project/
-index.html
-styles/
-main.css
-components/
-header.css
-footer.css
-...
-scripts/
-main.js
-components/
-header.js
-footer.js
-...
-images/
-portfolio/
-...
-about/
-...
-...
+# By Mohsen Mohamed Ashmawy
+
