@@ -2,7 +2,7 @@ version: '3'
 # (Optional) when using custom network
 networks:
   lp-apps:
-    external: true
+    external: False
 
 services:
   pg-db:
