@@ -11,7 +11,7 @@ ___________________________________________________________________________
 ssh -i "mohsen_key_pair.pem" ubuntu@ec2-44-205-139-151.compute-1.amazonaws.com
 abdelmohsen.mohamed369@gmail.com
 abdelmohsen@369
-N.Wh3,kFM^BF#9U
+N.Wh3,kFM^BF#9U 
 
 public ip address: 52.201.225.208
 

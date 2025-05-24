@@ -5,7 +5,7 @@ networks:
 
 services:
   odoo:
-    image: odoo:18.0
+    build: .
     container_name: odoo
     ports:
       - "8069:8069"
