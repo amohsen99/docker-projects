@@ -17,4 +17,4 @@ RUN apt-get update && apt-get install -y nodejs npm \
 # COPY ./addons /mnt/extra-addons
 # Set the entrypoint (Odoo entrypoint is already handled)
 # Switch back to the Odoo user
-USER odoo18
+# USER odoo18
